@@ -15,7 +15,7 @@ function App() {
         />
       </div>
       <div className='tareas-lista-principal'>
-        <h1>Mis tareas</h1> 
+        <h2>Mis tareas</h2> 
         <ListaTareas/>
       </div>
     </div>
